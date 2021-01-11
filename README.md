@@ -1,0 +1,1 @@
+Coach.Analysis Companion is the first of it's line-up. Focused on Semi-professional and Professional eSport teams, the goal is to make an easy to understand, modular but complete live analysis dashboard for coaches.
